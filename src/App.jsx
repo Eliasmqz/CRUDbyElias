@@ -7,7 +7,7 @@ import UsersList from "./components/UsersList";
 
 function App() {
 
-  const BASE_URL = "http://users-crud.academlo.tech/";
+  const BASE_URL = "https://users-crud.academlo.tech/";
 
 
 
